@@ -1,3 +1,5 @@
+package com.pepebecker;
+
 public abstract class AbstractMovableEntity extends AbstractEntity implements MoveableEntity {
 
     private double dx;

@@ -1,3 +1,5 @@
+package com.pepebecker;
+
 public interface MoveableEntity extends Entity {
 
     public double getDX();

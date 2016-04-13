@@ -1,12 +1,10 @@
 # java-pong
 Pong Game written in Java
 
-#Compile
+#Running from Command Line
 ```
-javac -cp .:lib/* Pong.java
+make
+make run
 ```
 
-#Run
-```
-java -cp .:lib/* -Djava.library.path=native/macosx Pong
-```
+Supported Platforms: Darwin and Linux

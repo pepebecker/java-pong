@@ -1,3 +1,5 @@
+package com.pepebecker;
+
 public interface Entity {
 
     public void draw();

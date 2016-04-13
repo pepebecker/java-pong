@@ -1,3 +1,5 @@
+package com.pepebecker;
+
 import org.lwjgl.*;
 import org.lwjgl.input.Keyboard;
 import org.lwjgl.opengl.*;

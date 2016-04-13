@@ -1,3 +1,5 @@
+package com.pepebecker;
+
 import java.awt.*;
 
 public abstract class AbstractEntity implements Entity {
