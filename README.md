@@ -1,10 +1,10 @@
-# java-pong
+# Java Pong
 Pong Game written in Java
 
-#Running from Command Line
+## Running from Command Line
 ```
 make
 make run
 ```
 
-Supported Platforms: Darwin and Linux
+Supported Platforms: Mac OS X and Linux
